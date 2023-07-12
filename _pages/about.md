@@ -19,8 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! Thank you for your interest in my profile. I am Sidharth, a Mechanical Engineering Master's student at <a href='https://www.stanford.edu/'> Stanford University</a>. I hold an undergradute degree from the Indian Institute of Technology Madras, India.
+Hi there! Thank you for your interest in my profile. 
+I am Sidharth, a Mechanical Engineering Master's student at <a href='https://www.stanford.edu/'> Stanford University</a>. I hold an undergradute degree in Mechanical Engineering from the <a href='https://www.iitm.ac.in/'>Indian Institute of Technology Madras, India</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interest broadly lie in Robotics and Control. I have been fortunate to have stimulating experiences in research as well as brief stints in <a href='https://www.caterpillar.com/'>Industry</a>, <a href='https://www.itcportal.com/'>Consumer Goods</a> and <a href='https://www.venturehighway.vc/'>Venture Capital</a>. I am passionate about all things tech and business (and also Squash :tennis:). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
