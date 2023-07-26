@@ -2,7 +2,7 @@
 layout: page
 title: Motion Planning of a Surgical Robot
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/IRRT_Star_Constraint.gif
 importance: 1
 category: work
 ---
