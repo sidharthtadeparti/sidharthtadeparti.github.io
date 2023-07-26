@@ -65,8 +65,9 @@
     - title: Robotics and Autonomous Systems
       items: 
         - Planning
+        - Learning
         - Optimal Control
-        - Automotive Systems
+        - Automotive Application
 
 
 
