@@ -4,7 +4,7 @@ title: Motion Planning of a Surgical Robot
 description: a project with a background image
 img: assets/img/IRRT_Star_Constraint.gif
 importance: 1
-category: work
+category: major
 ---
 
 Every project has a beautiful feature showcase page.
