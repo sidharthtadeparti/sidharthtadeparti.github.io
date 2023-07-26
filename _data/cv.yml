@@ -2,7 +2,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science(MS) in Mechanical Engineering
+    - title: Master of Science (MS) in Mechanical Engineering
       institution: Stanford University
       year: 2025
     #   description:
@@ -12,7 +12,7 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    - title: Bachelor of Technology(B.Tech) in Mechanical Engineering
+    - title: Bachelor of Technology (B.Tech) in Mechanical Engineering
       institution: Indian Institute of Technology Madras
       year: 2023
       description:
