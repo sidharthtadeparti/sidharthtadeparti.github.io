@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Control of a quadruple tank setup.
 description: another without an image
 img:
 importance: 3
