@@ -49,21 +49,14 @@
   contents:
     - year: 2023
       items: 
-        - title: Banco Foundation Prize
-        items:
-          - Awarded to the graduating student with the best academic record in the B.Tech Mechanical Program at IIT Madras.
-        - title: Vaidy Krishnan Memorial Prize
-        items:
-        -Awarded to the graduating student with the best overall performance in curricular and extra-curricular activities in the B.Tech Mechanical Engineering Program at IIT Madras.
-        - title: Sivasailam Merit Prize
-         items:         
-         - Awarded to the student with the best individual project in the B.Tech Mechanical Engineering Program at IIT Madras.
+        - Banco Foundation Prize
+        - Vaidy Krishnan Memorial Prize
+        - Sivasailam Merit Prize
 
 
     - year: 2022
       items: 
-        - title: Honda YES Award
-        items: An academic scholarship and research grant awarded to students who have excelled in the area of science and technology. 
+        - Honda YES Award
 
 
 - title: Academic Interests
