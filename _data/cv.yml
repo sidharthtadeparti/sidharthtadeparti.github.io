@@ -28,12 +28,12 @@
     - title: Summer Intern
       institution: ITC Limited
       year: May - July 2022
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
     - title: Engineering Intern
       institution: Caterpillar Inc
-      year: June - July 2023
+      year: June - July 2021
 
 
 
@@ -69,14 +69,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics and Autonomous Systems
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Planning
+        - Optimal Control
+        - Automotive Systems
+
+
 
 - title: Other Interests
   type: list
