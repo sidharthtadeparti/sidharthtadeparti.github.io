@@ -1,4 +1,4 @@
-- title: Sidharth Tadeparti
+- title: Brief Profile
 - title: Education
   type: time_table
   contents:
@@ -49,12 +49,22 @@
   contents:
     - year: 2023
       items: 
-        - Banco Foundation Prize
-        - Vaidy Krishnan Memorial Prize
-        - Sivasailam Merit Prize
+        - title: Banco Foundation Prize
+        items:
+          - Awarded to the graduating student with the best academic record in the B.Tech Mechanical Program at IIT Madras.
+        - title: Vaidy Krishnan Memorial Prize
+        items:
+        -Awarded to the graduating student with the best overall performance in curricular and extra-curricular activities in the B.Tech Mechanical Engineering Program at IIT Madras.
+        - title: Sivasailam Merit Prize
+         items:         
+         - Awarded to the student with the best individual project in the B.Tech Mechanical Engineering Program at IIT Madras.
+
+
     - year: 2022
       items: 
-        - Honda YES Award
+        - title: Honda YES Award
+        items: An academic scholarship and research grant awarded to students who have excelled in the area of science and technology. 
+
 
 - title: Academic Interests
   type: nested_list
