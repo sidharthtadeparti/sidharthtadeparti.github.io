@@ -10,7 +10,7 @@ This project was completed as a part of an introductory course on motion plannin
 
 <b> The problem statement:</b>
 
-Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion (RCM) constraint.
+<i>Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion (RCM) constraint.<\i>
 
 The RCM constraint helps ensure that the needle only moves vertically and rotates about the insertion point. This ensures that the skin is not stretched during surgery.
 
@@ -35,13 +35,13 @@ In this project, all components except the simulation package for the robot are 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MotionPlanning/Workflow.jpg" title="Flow of Information" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MotionPlanning/Workflow.JPG" title="Flow of Information" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The setup of the implementation is depicted by the above flow chart.
 </div>
 
-To learn more about the project, please the the <a href='https://www.stanford.edu/'>Github Repository</a>.
+To learn more about the project, please refer the <a href='https://github.com/sidt36/ED5215-Path-Planning-Project---RCM'>Github Repository</a>.
 
 
