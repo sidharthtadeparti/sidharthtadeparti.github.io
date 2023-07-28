@@ -10,7 +10,7 @@ This project was completed as a part of an introductory course on motion plannin
 
 <b> The problem statement:</b>
 
-<i>Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion (RCM) constraint.<\i>
+<i>Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion (RCM) constraint.</i>
 
 The RCM constraint helps ensure that the needle only moves vertically and rotates about the insertion point. This ensures that the skin is not stretched during surgery.
 
