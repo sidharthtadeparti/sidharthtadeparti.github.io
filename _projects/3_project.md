@@ -2,8 +2,8 @@
 layout: page
 title: Convolutional Neural Networks for Heat Conduction.
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/op1.JPG
+redirect: https://www.sciencedirect.com/science/article/pii/S2214157X22003355
 importance: 3
 category: major
 ---
