@@ -1,23 +1,18 @@
 ---
 layout: page
 title: Motion Planning of a Surgical Robot
-description: a project with a background image
+description: Sampling-based planning for a 7 DoF Manipulator.
 img: assets/img/IRRT_Star_Constraint.gif
 importance: 1
 category: major
 ---
+This project was completed as a part of an introductory course on motion planning offered by IIT Madras.  
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<b> The problem statement:
+<\b>
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion constraint.
     ---
 
 <div class="row">
