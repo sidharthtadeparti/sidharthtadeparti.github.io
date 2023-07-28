@@ -6,70 +6,42 @@ img: assets/img/IRRT_Star_Constraint.gif
 importance: 1
 category: major
 ---
-This project was completed as a part of an introductory course on motion planning offered by IIT Madras.  
+This project was completed as a part of an introductory course on motion planning offered by IIT Madras. The broad goal was to apply motion planning technique to surgical robotics.
 
-<b> The problem statement:
-<\b>
+<b> The problem statement:</b>
 
-    ---
-    Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion constraint.
-    ---
+Plan and simulate the motion of the end effector of a 7-DoF Kuka iiwa manipulator while adhering to a remote center of motion (RCM) constraint.
+
+The RCM constraint helps ensure that the needle only moves vertically and rotates about the insertion point. This ensures that the skin is not stretched during surgery.
+
+The manipulator used is very high dimensional and hence the conventional graph based plannign algorithms are intractable for such a problem. Sampling based technquies such as RRT and its many variants are used to plan the path. A major challenge arises from the RCM constraint itself, with a highly restricted and narrow sampling space. 
+
+In this project, all components except the simulation package for the robot are engineered from scratch. The forward kinematics and collision check modules are developed using the geometric properties of the robot. The final path is simulated using Gazebo.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MotionPlanning/RRT_Constraint.gif" title="RRT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MotionPlanning/RRT_Star_Constraint.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MotionPlanning/IRRT_Star_Constraint.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The above animations depict the performance of RRT RRT* and IRRT* respectively on the planning problem. The differences are delineated in the report.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MotionPlanning/Workflow.jpg" title="Flow of Information" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The setup of the implementation is depicted by the above flow chart.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+To learn more about the project, please the the <a href='https://www.stanford.edu/'>Github Repository</a>.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
