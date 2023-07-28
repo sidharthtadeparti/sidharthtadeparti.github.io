@@ -2,23 +2,38 @@
 layout: page
 title: Automotive Control.
 description: Non-linear model predictive control for Heavy-vehicle platooning.
-img: assets/img/Platooning/Platoon_Illustration.JPG
+img: assets/img/Platooning/PlatoonModel2.JPG
 importance: 2
 category: major
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project represents a year-long effort towards my bachelor's thesis at IIT Madras. I worked at the automotive control lab toward developing model predictive controllers for heavy vehicle applications.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A platoon consists of several trucks moving together at high speeds with a small inter-vehicular spacing. In such formations, a trade-off exists between energy efficiency and stability that depends on the spacing.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<b>The task is therefore to design controller that offer both stable and efficienct performance while utilizing a detailed vehicle dynamics model.</b>
+
+The project makes use of two approaches, a centralized approach and a distributed approach and contrasts their performance. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Platooning/PlatoonModel2.JPG" title="Centralized Control" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A schematic of the centralized control framework.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Platooning/PlatoonModelDist.JPG" title="Centralized Control" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A schematic of the distributed control framework.
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,14 +49,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
