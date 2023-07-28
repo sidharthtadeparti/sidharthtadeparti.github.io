@@ -2,7 +2,7 @@
 layout: page
 title: heat transfer
 description: Convolutional Neural Networks for Heat Conduction.
-img: assets/img/op1.JPG
+img: assets/img/op1.jpg
 redirect: https://www.sciencedirect.com/science/article/pii/S2214157X22003355
 importance: 3
 category: major
