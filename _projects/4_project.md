@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Control of a quadruple tank setup.
-description: another without an image
+title: Estimation and Control.
+description: Control system for a quadruple tank setup.
 img:
+redirect: https://drive.google.com/file/d/1Jsn-pTsk0a0DdkNcik9PaDEeoqbytGpf/view?usp=sharing
 importance: 3
 category: minor
 ---
