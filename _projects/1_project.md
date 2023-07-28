@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Motion Planning of a Surgical Robot
-description: Sampling-based planning for a 7 DoF Manipulator.
+title: Motion Planning 
+description: Motion planning for a 7 DoF Surgical Robot.
 img: assets/img/IRRT_Star_Constraint.gif
 importance: 1
 category: major
