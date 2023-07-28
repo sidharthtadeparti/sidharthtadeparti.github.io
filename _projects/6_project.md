@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Battery life prediction.
-description: a project with no image
+title: Machine Learning
+description: Battery life prediction.
 img:
+redirect: https://drive.google.com/file/d/12P4GEWIOK4tSbfcSVTEfmnAVASHfXPmQ/view?usp=sharing
 importance: 4
 category: minor
 ---
