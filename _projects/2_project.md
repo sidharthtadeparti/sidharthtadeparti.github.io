@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Non-linear MPC for Platooning.
-description: a project with a background image
-img: assets/img/3.jpg
+title: Automotive Control.
+description: Non-linear model predictive control for Heavy-vehicle platooning.
+img: assets/img/Platooning/Platoon_Illustration.JPG
 importance: 2
 category: major
 ---
