@@ -3,7 +3,7 @@ layout: page
 title: Generative AI.
 description: Creative computational poetry generation.
 img: assets/img/Picture1.gif
-importance: 3
+importance: 5
 redirect: https://sidharthtadeparti.github.io/projects/
 category: minor
 ---
