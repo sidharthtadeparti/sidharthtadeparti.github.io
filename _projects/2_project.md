@@ -38,13 +38,13 @@ The above frameworks have been tested under different road friction conditions t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Platooning/VeloctyTracking_0.4_AC" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Platooning/VeloctyTracking_0.4_AC.png" title="Acceleration" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Platooning/VeloctyTracking_0.8.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Platooning/VeloctyTracking_0.8.png" title="Deceleration" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Platooning/DC2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Platooning/DC2.png" title="Drive Cyle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,7 +55,7 @@ Finally, co-simulation was used to test the controller performance on a harware-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Platooning/HiL_Setup.JPG" title="Centralized Control" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Platooning/HiL_Setup.jpg" title="HiL" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -63,4 +63,4 @@ Finally, co-simulation was used to test the controller performance on a harware-
 </div>
 
 
-A detailed description can be found <a="https://ieeexplore.ieee.org/document/10178412" >here</a>
+A detailed description can be found <a href="https://ieeexplore.ieee.org/document/10178412" >here</a>
