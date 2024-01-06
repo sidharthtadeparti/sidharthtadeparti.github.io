@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generative AI.
+title: Generative AI
 description: Creative computational poetry generation.
 img: assets/img/Picture1.gif
 importance: 5

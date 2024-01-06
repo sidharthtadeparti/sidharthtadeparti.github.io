@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Estimation and Control.
+title: Estimation and Control
 description: Control system for a quadruple tank setup.
 img:
 redirect: https://drive.google.com/file/d/1Jsn-pTsk0a0DdkNcik9PaDEeoqbytGpf/view?usp=sharing

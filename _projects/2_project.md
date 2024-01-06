@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automotive Control.
+title: Automotive Control
 description: Non-linear model predictive control for Heavy-vehicle platooning.
 img: assets/img/Platooning/PlatoonModel2.JPG
 importance: 2

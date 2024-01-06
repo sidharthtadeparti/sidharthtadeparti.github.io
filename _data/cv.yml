@@ -5,9 +5,9 @@
     - title: Master of Science (MS) in Mechanical Engineering
       institution: Stanford University
       year: 2025
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+      description:
+         - GPA - 4.1/4 
+        - Coursework - Robot Autonomy, Reinforcement Learning, Perception, Collaborative Robotics, Parallel Computing.
     #     - title: Description 3.
     #       contents:
     #         - Sub-description 1.
@@ -16,10 +16,11 @@
       institution: Indian Institute of Technology Madras
       year: 2023
       description:
-        - Finished in the top 1% of the graduating class.
+        - GPA - 9.76/10 (Topped the department and finished in the top 1% of the graduating class)
+        - Coursework -  Motion Planning, Modern Control, Machine Learning, Mobile Robotics, Data Structures and Algorithms.
 
 
-- title: Experience
+- title: Professions Experience
   type: time_table
   contents:
     - title: VC Intern
@@ -49,14 +50,14 @@
   contents:
     - year: 2023
       items: 
-        - Banco Foundation Prize
-        - Vaidy Krishnan Memorial Prize
-        - Sivasailam Merit Prize
+        - Best Academic Record as a ME Undergraduate (Banco Foundation Prize)
+        - Best Overall Record as a ME Undergraduate (Vaidy Krishnan Memorial Prize)
+        - Best Thesis as a ME Undergraduate (Sivasailam Merit Prize)
 
 
     - year: 2022
       items: 
-        - Honda YES Award
+        - Honda YES Award (A research grant awarded by the Honda Foundation JP)
 
 
 - title: Academic Interests
@@ -67,11 +68,4 @@
         - Planning
         - Learning
         - Optimal Control
-        - Automotive Applications
 
-
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Sport, Design and Reading
