@@ -6,8 +6,8 @@
       institution: Stanford University
       year: 2025
       description:
-         - GPA - 4.1/4 
-        - Coursework - Robot Autonomy, Reinforcement Learning, Perception, Collaborative Robotics, Parallel Computing.
+         - GPA 4.1/4 
+        - Robot Autonomy, Reinforcement Learning, Perception, Collaborative Robotics, Parallel Computing.
     #     - title: Description 3.
     #       contents:
     #         - Sub-description 1.
@@ -16,8 +16,8 @@
       institution: Indian Institute of Technology Madras
       year: 2023
       description:
-        - GPA - 9.76/10 (Topped the department and finished in the top 1% of the graduating class)
-        - Coursework -  Motion Planning, Modern Control, Machine Learning, Mobile Robotics, Data Structures and Algorithms.
+        - GPA  9.76/10 (Topped the department and finished in the top 1% of the graduating class)
+        - Motion Planning, Modern Control, Machine Learning, Mobile Robotics, Data Structures and Algorithms.
 
 
 - title: Professions Experience
