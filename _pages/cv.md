@@ -6,8 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-## Curriculum Vitae
-
 You can download my CV as a PDF file:
 
 <div class="text-center mt-4 mb-4">
