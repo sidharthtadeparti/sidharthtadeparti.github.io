@@ -8,7 +8,6 @@ profile:
   align: right
   image: pp_dot.jpg
   image_circular: true # crops the image to make it circular
-  more_info: true
   address: #>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
