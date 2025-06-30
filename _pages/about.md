@@ -8,6 +8,7 @@ profile:
   align: right
   image: pp_dot.jpg
   image_circular: true # crops the image to make it circular
+  more_info: true
   address: #>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
@@ -24,3 +25,11 @@ Hi there! Thank you for your interest in my profile.
 I am Sidharth, a Mechanical Engineering Master's student at <a href='https://www.stanford.edu/'> Stanford University</a>. I hold an undergradute degree in Mechanical Engineering from the <a href='https://www.iitm.ac.in/'>Indian Institute of Technology Madras, India</a>.
 
 My interest broadly lie in Robotics and Control. I have been fortunate to have stimulating experiences in research as well as brief stints in <a href='https://www.caterpillar.com/'>Industry</a>, <a href='https://www.itcportal.com/'>Consumer Goods</a> and <a href='https://www.venturehighway.vc/'>Venture Capital</a>. I am passionate about all things tech and business (and also Squash :tennis:). 
+
+---
+
+## Publications
+
+<div class="publications">
+{% bibliography -f {{ site.scholar.bibliography }} %}
+</div>
