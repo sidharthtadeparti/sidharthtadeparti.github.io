@@ -25,5 +25,10 @@ I am Sidharth, a Mechanical Engineering Master's student at <a href='https://www
 
 My interest broadly lie in Robotics and Control. I have been fortunate to have stimulating experiences in research as well as brief stints in <a href='https://www.caterpillar.com/'>Industry</a>, <a href='https://www.itcportal.com/'>Consumer Goods</a> and <a href='https://www.venturehighway.vc/'>Venture Capital</a>. I am passionate about all things tech and business (and also Squash :tennis:). 
 
+---
 
+## Publications
 
+<div class="publications">
+{% bibliography -f {{ site.scholar.bibliography }} %}
+</div>
