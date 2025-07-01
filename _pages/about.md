@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! Thank you for your interest in my profile. 
 
-I work at <a href='https://www.dexterity.ai/'> Dexterity Inc</a>, a robotics startup in Redwood City, CA. I hold a masters degree from <a href='https://www.stanford.edu/'> Stanford University </a> and hold an undergradute degree in Mechanical Engineering from the <a href='https://www.iitm.ac.in/'>Indian Institute of Technology Madras, India</a>.
+I work at <a href='https://www.dexterity.ai/'> Dexterity Inc</a>, a robotics startup in Redwood City, CA. I hold a masters degree from <a href='https://www.stanford.edu/'> Stanford University </a> and an undergradute degree from the <a href='https://www.iitm.ac.in/'>Indian Institute of Technology Madras, India</a>.
 
-My interest broadly lie in Robotics and Control. I have been fortunate to have stimulating experiences in research as well as brief stints in <a href='https://www.caterpillar.com/'>Industry</a>, <a href='https://www.itcportal.com/'>Consumer Goods</a> and <a href='https://www.venturehighway.vc/'>Venture Capital</a>. I am passionate about all things tech and business (and also Squash :tennis:). 
+My research interest broadly lie in Vision and Control for robotics. At Stanford, I was fortunate to have rotated at the <a href='https://stanfordasl.github.io/'> Autonomous Systems Lab </a> and and worked on control and percpetion for autonomous aircraft landing. I served as an RA for (<a href='https://hai.stanford.edu/industry/sustainability-and-ai'> Sustainibity + AI </a>). I also was teaching assitant for couses on decision making (AA228), autonomy (AA228V) and optimization (AA222). 
+
+
