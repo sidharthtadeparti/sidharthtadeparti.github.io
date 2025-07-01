@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student at <a href='https://www.stanford.edu/'> Stanford University</a>. 
+subtitle: Robotics Engineer 
 
 profile:
   align: right
@@ -26,3 +26,4 @@ I work at <a href='https://www.dexterity.ai/'> Dexterity Inc</a>, a robotics sta
 My research interest broadly lie in Vision and Control for robotics. At Stanford, I was fortunate to have rotated at the <a href='https://stanfordasl.github.io/'> Autonomous Systems Lab </a> and and worked on control and percpetion for autonomous aircraft landing. I served as an RA for (<a href='https://hai.stanford.edu/industry/sustainability-and-ai'> Sustainibity + AI </a>). I also was teaching assitant for couses on decision making (AA228), autonomy (AA228V) and optimization (AA222). 
 
 
+Feel free to click on the linky stuff down below!
