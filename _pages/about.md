@@ -27,3 +27,12 @@ My research interest broadly lie in Vision and Control for robotics. At Stanford
 
 
 Feel free to click on the linky stuff down below!
+
+---
+
+<div class="text-center mt-4">
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-GKJtWtQmf8" allowfullscreen></iframe>
+  </div>
+  <p class="mt-2 text-muted"><small>🎵 Light background music</small></p>
+</div>
