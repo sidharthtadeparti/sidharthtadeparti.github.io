@@ -25,9 +25,6 @@ I work at <a href='https://www.dexterity.ai/'> Dexterity Inc</a>, a robotics sta
 
 My research interests broadly lie in Vision and Control for robotics. At Stanford, I was fortunate to have rotated at the <a href='https://stanfordasl.github.io/'> Autonomous Systems Lab </a> and worked on joint control and perception for autonomous aircraft landing. I also served as a research assistant to the Lobell lab <a href='https://hai.stanford.edu/industry/sustainability-and-ai'> (Sustainibity + AI) </a>. Outside of research and coursework, I was a teaching assistant for courses offered by the  <a href='https://sisl.stanford.edu/'> Stanford Intelligent Systems Lab </a>  on decision making (AA228), autonomy (AA228V) and optimization (AA222). 
 
-
-Feel free to click on the linky stuff down below!
-
 ---
 
 <div class="text-center mt-4">
