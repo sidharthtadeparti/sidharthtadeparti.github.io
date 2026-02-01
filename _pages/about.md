@@ -27,12 +27,4 @@ My research interests broadly lie in Vision and Control for robotics. At Stanfor
 
 ---
 
-<div class="text-center mt-4">
-  <figure style="max-width: 600px; margin: 0 auto;">
-    <img 
-      src="/assets/img/cc575237bb2367b4cf00eb90ed0579c5.gif" 
-      alt="" 
-      style="width: 100%; height: auto;"
-    >
-  </figure>
-</div>
+
